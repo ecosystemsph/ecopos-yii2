@@ -3,7 +3,7 @@ return [
     'db'=>[
         'class' => 'yii\db\Connection',
         //ict-hlpc2
-        'dsn' => 'mysql:host=127.0.0.1;dbname=ecopos',
+        'dsn' => 'mysql:host=127.0.0.1;dbname=ecopos', 
         'username' => 'ecopos',
         'password' => 'ecopos',
         'charset' => 'utf8',

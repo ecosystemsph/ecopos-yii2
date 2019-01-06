@@ -37,6 +37,4 @@ phpunit.phar
 *.yml
 
 #/vendor/
-frontend/views/admin-lte/layouts/left.php
-frontend/views/admin-lte/layouts/left.php
-frontend/web/css/custom.css
+
